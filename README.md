@@ -18,8 +18,8 @@ For reading video metadata i used [exiftools](https://exiftool.org/).
 
 ## Data
 You can download the data from these links
-*[Sample data - video and gpx files] https://drive.google.com/drive/folders/1WGGuoO9ZqqNkTFZLdVBmFOVBYLCIjcqr?usp=sharing
-*[Weights files - PB files] https://drive.google.com/drive/folders/1Y5YD9j2xio2uv2akseHdhUsFx0z2WfAV?usp=sharing
+*[Sample data - video and gpx files](https://drive.google.com/drive/folders/1WGGuoO9ZqqNkTFZLdVBmFOVBYLCIjcqr?usp=sharing)
+*[Weights files - PB files](https://drive.google.com/drive/folders/1Y5YD9j2xio2uv2akseHdhUsFx0z2WfAV?usp=sharing)
 
 ## Result
 ![](https://github.com/1230grams/Traffic_sign_mapping/blob/master/Map.gif?raw=true)
